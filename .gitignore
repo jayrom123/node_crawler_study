@@ -1,0 +1,13 @@
+*.idea
+.idea
+.vscode
+.DS_Store
+*.DS_Store
+
+*.seed
+*.log
+*.gz
+
+
+node_modules
+npm-debug.log
